@@ -15,9 +15,9 @@ features:
     image: "/images/myeclpay.png"
     content: "The project includes lots of functionnalities to manage and ease student life on campus."
     bulletpoints:
+      - "Dedicated payment solution"
       - "Calendar and events"
       - "Room booking"
-      - "Dedicated payment solution"
       - "Posts and news"
       - "Associative campaigns"
       - "*and many more functionnalities*"
